@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/JavaExpressFinal">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="coba_maven" password="" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/coba_maven?zeroDateTimeBehavior=convertToNull" username="root"/>
+</Context>
